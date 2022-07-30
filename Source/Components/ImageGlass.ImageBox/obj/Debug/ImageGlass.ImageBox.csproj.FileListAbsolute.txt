@@ -1,0 +1,6 @@
+C:\Users\Administrator\Source\Repos\kns98\ImageGlass\Source\Components\ImageGlass.ImageBox\bin\Debug\ImageGlass.ImageBox.dll
+C:\Users\Administrator\Source\Repos\kns98\ImageGlass\Source\Components\ImageGlass.ImageBox\bin\Debug\ImageGlass.ImageBox.pdb
+C:\Users\Administrator\Source\Repos\kns98\ImageGlass\Source\Components\ImageGlass.ImageBox\obj\Debug\ImageGlass.ImageBox.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\kns98\ImageGlass\Source\Components\ImageGlass.ImageBox\obj\Debug\ImageGlass.ImageBox.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\kns98\ImageGlass\Source\Components\ImageGlass.ImageBox\obj\Debug\ImageGlass.ImageBox.dll
+C:\Users\Administrator\Source\Repos\kns98\ImageGlass\Source\Components\ImageGlass.ImageBox\obj\Debug\ImageGlass.ImageBox.pdb
